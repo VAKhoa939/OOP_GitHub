@@ -1,0 +1,14 @@
+D:\21110CLA2 - 5\Năm 3 - HK1\Object-oriented programming\OOP_code\RentalPropertyManagement\RentalPropertyManagement\bin\Debug\net6.0\RentalPropertyManagement.exe
+D:\21110CLA2 - 5\Năm 3 - HK1\Object-oriented programming\OOP_code\RentalPropertyManagement\RentalPropertyManagement\bin\Debug\net6.0\RentalPropertyManagement.deps.json
+D:\21110CLA2 - 5\Năm 3 - HK1\Object-oriented programming\OOP_code\RentalPropertyManagement\RentalPropertyManagement\bin\Debug\net6.0\RentalPropertyManagement.runtimeconfig.json
+D:\21110CLA2 - 5\Năm 3 - HK1\Object-oriented programming\OOP_code\RentalPropertyManagement\RentalPropertyManagement\bin\Debug\net6.0\RentalPropertyManagement.dll
+D:\21110CLA2 - 5\Năm 3 - HK1\Object-oriented programming\OOP_code\RentalPropertyManagement\RentalPropertyManagement\bin\Debug\net6.0\RentalPropertyManagement.pdb
+D:\21110CLA2 - 5\Năm 3 - HK1\Object-oriented programming\OOP_code\RentalPropertyManagement\RentalPropertyManagement\obj\Debug\net6.0\RentalPropertyManagement.GeneratedMSBuildEditorConfig.editorconfig
+D:\21110CLA2 - 5\Năm 3 - HK1\Object-oriented programming\OOP_code\RentalPropertyManagement\RentalPropertyManagement\obj\Debug\net6.0\RentalPropertyManagement.AssemblyInfoInputs.cache
+D:\21110CLA2 - 5\Năm 3 - HK1\Object-oriented programming\OOP_code\RentalPropertyManagement\RentalPropertyManagement\obj\Debug\net6.0\RentalPropertyManagement.AssemblyInfo.cs
+D:\21110CLA2 - 5\Năm 3 - HK1\Object-oriented programming\OOP_code\RentalPropertyManagement\RentalPropertyManagement\obj\Debug\net6.0\RentalPropertyManagement.csproj.CoreCompileInputs.cache
+D:\21110CLA2 - 5\Năm 3 - HK1\Object-oriented programming\OOP_code\RentalPropertyManagement\RentalPropertyManagement\obj\Debug\net6.0\RentalPropertyManagement.dll
+D:\21110CLA2 - 5\Năm 3 - HK1\Object-oriented programming\OOP_code\RentalPropertyManagement\RentalPropertyManagement\obj\Debug\net6.0\refint\RentalPropertyManagement.dll
+D:\21110CLA2 - 5\Năm 3 - HK1\Object-oriented programming\OOP_code\RentalPropertyManagement\RentalPropertyManagement\obj\Debug\net6.0\RentalPropertyManagement.pdb
+D:\21110CLA2 - 5\Năm 3 - HK1\Object-oriented programming\OOP_code\RentalPropertyManagement\RentalPropertyManagement\obj\Debug\net6.0\RentalPropertyManagement.genruntimeconfig.cache
+D:\21110CLA2 - 5\Năm 3 - HK1\Object-oriented programming\OOP_code\RentalPropertyManagement\RentalPropertyManagement\obj\Debug\net6.0\ref\RentalPropertyManagement.dll
